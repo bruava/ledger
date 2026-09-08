@@ -1,3 +1,8 @@
+server:
+  port: ${SERVER_PORT:8082}
+  servlet:
+    context-path: /api
+
 spring:
   application:
     name: ledger
