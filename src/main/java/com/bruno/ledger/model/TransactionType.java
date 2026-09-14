@@ -5,6 +5,5 @@ package com.bruno.ledger.model;
  */
 public enum TransactionType {
     DEPOSIT,
-    WITHDRAWAL,
-    ;
+    WITHDRAWAL
 }
